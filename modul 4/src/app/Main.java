@@ -12,8 +12,8 @@ public class Main {
 
         System.out.println();
 
-        Anggota anggota1 = new Anggota("Wahyu Andika", "B075");
-        Anggota anggota2 = new Anggota("Ega Faiz", "A047");
+        Anggota anggota1 = new Anggota("Alfa", "H362");
+        Anggota anggota2 = new Anggota("Dzakki", "H377");
 
         anggota1.displayInfo();
         anggota2.displayInfo();
